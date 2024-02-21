@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;pages.PurchaseFlow&apos; to &apos;PurchaseFlowPage&apos;&#x0D;&#x0A;- Original project: &apos;academia-seleniumwebdriver-base&apos;&#x0D;&#x0A;- Original element: &apos;pages.PurchaseFlow&apos;&#x0D;&#x0A;- Renamed element: &apos;pages.PurchaseFlowPage&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;PurchaseFlow&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;pages{PurchaseFlow.java[PurchaseFlow" matchStrategy="1" name="PurchaseFlowPage" qualified="false" references="true" similarDeclarations="false" stamp="1650568340082" textual="false" version="1.0"/>
+</session>
